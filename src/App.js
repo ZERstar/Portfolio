@@ -1,5 +1,5 @@
 import { Spline } from "@splinetool/react-spline";
-import Tejas from "./images/kesari.jpg";
+import Tejas from "./images/b pan.jpg";
 import {
   VerticalTimeline,
   VerticalTimelineElement,
