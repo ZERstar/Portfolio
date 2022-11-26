@@ -76,7 +76,7 @@ export const Projects = [
     name: "Portfolio",
     imageSrc: img5,
     techs: "React Js,  Material UI",
-    github: "#",
+    github: "https://github.com/ZERstar/Portfolio",
   },
 ];
 
