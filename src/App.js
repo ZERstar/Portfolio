@@ -132,7 +132,7 @@ function App() {
             </div>
             <div className="w-full h-420 flex flex-col items-center justify-center ">
               <p className="text-lg text-textBase text-center">
-                I am Tejas studying in SRM IST pursuing my Btech in CSE-IT. I am a blockchain and mobile application. I like to create projects in new techstacks. Currently I am learning Blockchain and studying it's applications. I have interest in preparing advance NFT marketplaces and also curious about Decentralized Finance.
+                I am Tejas studying in SRM IST pursuing my Btech in CSE-IT. I am a blockchain and mobile application developer. I like to create projects in new techstacks. Currently I am learning Blockchain and studying it's applications. I have interest in innovating Blockchain applications. I have an ambition to cotribute something unique in Decentralized Finance.
               </p>
 
               <button class="w-full md:w-auto relative mt-6 inline-flex items-center justify-center p-0.5 mb-2 mr-2 overflow-hidden text-sm font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-green-400 to-blue-600 group-hover:from-green-400 group-hover:to-blue-600 hover:text-white dark:text-white focus:ring-4 focus:ring-green-200 dark:focus:ring-green-800 hover:shadow-lg hover:shadow-teal-500/50 hover:dark:shadow-lg hover:dark:shadow-teal-800/80">
