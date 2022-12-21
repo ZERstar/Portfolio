@@ -48,7 +48,7 @@ export const Projects = [
     name: "IP-Locator",
     imageSrc: img1,
     techs: "React Js, React-Leaflet, Javascript",
-    github: "https://github.com/ZERstar/IP-Locator",
+    github: "http://cn-indol.vercel.app/",
   },
   {
     id: 2,
@@ -69,14 +69,14 @@ export const Projects = [
     name: "AgroTip",
     imageSrc: img4,
     techs: "React Js,  Material UI",
-    github: "https://github.com/ZERstar/AgroTip",
+    github: "https://zerstar.github.io/AgroTip/",
   },
   {
     id: 5,
     name: "Portfolio",
     imageSrc: img5,
     techs: "React Js,  Material UI",
-    github: "https://github.com/ZERstar/Portfolio",
+    github: "http://x-zerstar.vercel.app/",
   },
 ];
 
